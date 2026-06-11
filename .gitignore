@@ -1,0 +1,19 @@
+#Virtual env
+
+env
+.env
+.env/
+.venv
+.venv/
+env/
+
+# Python cache
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+
+instance/
+tasks.json
